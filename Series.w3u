@@ -1,50 +1,14 @@
 {
-    "name": "Movie",
+    "name": "Series",
     "author": "",
     "url": "https://raw.githubusercontent.com/Terminal-48/Series-123HD/main/Series.w3u",
     "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
 {
-"name": "หนังใหม่ 2024",
+"name": "ซีรีย์ใหม่ 2024",
 "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
 "url":"https://raw.githubusercontent.com/Terminal-48/Series-123HD/main/ซีรี่ย์ใหม่ 2024.w3u"
-},
-{
-"name": "หนัง ปี 2023",
-"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"url":"https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังใหม่ 2023.w3u"
-},
-{
-"name": "หนัง ปี 2022",
-"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังใหม่ 2022.w3u"
-},
-{
-"name": "หนังไทย",
-"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังไทย.w3u"
-},
-{
-"name": "หนังจีน",
-"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังจีน.w3u"
-},
-{
-"name": "หนังเกาหลี",
-"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังเกาหลี.w3u"
-},
-{
-"name": "หนังญี่ปุ่น",
-"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังญี่ปุ่น.w3u"
-},
-{
-"name": "หนังอินเดีย",
-"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังอินเดีย.w3u"
 }
-
 
 
 ]
