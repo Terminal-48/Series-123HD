@@ -1,10 +1,1637 @@
 {
   "name": "ซีรี่ย์ฝรั่ง",
-  "author": "อัพเดทล่าสุด",
+  "author": "อัพเดท 11/12/2024",
   "info": "",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "url": "https://raw.githubusercontent.com/Terminal-48/Series-123HD/main/ซีรี่ย์ฝรั่ง.w3u",
   "groups": [
+    {
+      "name": "Dune Prophecy (2024) ดูน คำพยากรณ์แห่งทราย [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Dune-Prophecy-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Dune-Prophecy-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/addc59d183eedca87bd1bb1b/addc59d183eedca87bd1bb1b438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Dune-Prophecy-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/72f29e4e264f8d0314898863/72f29e4e264f8d0314898863438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Dune-Prophecy-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/4a22b4cbf0f2d8fdad452768/4a22b4cbf0f2d8fdad452768438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Dune-Prophecy-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/c67e1352d94fb3fe6aba5f8d/c67e1352d94fb3fe6aba5f8d438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Skeleton Crew (2024) [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Star-Wars-Skeleton-Crew-300x450.jpg",
+      "info": "HD(EN)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Star-Wars-Skeleton-Crew-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/14565fae465b8e2589fca941/14565fae465b8e2589fca941438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/12/Star-Wars-Skeleton-Crew-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/9c8de36616abdf4fe04037f0/9c8de36616abdf4fe04037f0438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "The Helicopter Heist (2024) ปล้นทะลุฮอ [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Helicopter-Heist-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Helicopter-Heist-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/abb2bff699f808c62e27bef0/abb2bff699f808c62e27bef0438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Helicopter-Heist-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/5e5462fcffd3e114f1084c0a/5e5462fcffd3e114f1084c0a438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Helicopter-Heist-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/0fe246245253df424989fcda/0fe246245253df424989fcda438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Helicopter-Heist-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/964dfebd5621bf70f83a7888/964dfebd5621bf70f83a7888438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Helicopter-Heist-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/d6c7f8d0f2fd4b9e4a2a7bce/d6c7f8d0f2fd4b9e4a2a7bce438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Helicopter-Heist-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/91a77858e7d0243952540790/91a77858e7d0243952540790438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Helicopter-Heist-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/4e1fa44261c5f8fcb45ad97d/4e1fa44261c5f8fcb45ad97d438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/The-Helicopter-Heist-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/f36bc390c9ab1cc1928e4980/f36bc390c9ab1cc1928e4980438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Cross (2024) [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Cross-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Cross-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/4fc13e6155da3c458c5d9f12/4fc13e6155da3c458c5d9f12438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Cross-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/75127efa575c41aec3697e82/75127efa575c41aec3697e82438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Cross-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/958ae4718e5f15155e701f2c/958ae4718e5f15155e701f2c438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Cross-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/aef6164eb583a242d9ee9c7a/aef6164eb583a242d9ee9c7a438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Cross-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/f1aab3ec6b8a3705c160f81c/f1aab3ec6b8a3705c160f81c438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Cross-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/0c63ce6d09dad633b2a48ca2/0c63ce6d09dad633b2a48ca2438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Cross-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/09d60a09b297cf3319983d4b/09d60a09b297cf3319983d4b438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Cross-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/37e31b5a0e04dbcecc04b659/37e31b5a0e04dbcecc04b659438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Grotesquerie (2024) [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Grotesquerie-300x450.jpg",
+      "info": "HD(EN)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Grotesquerie-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/d2a090461d021793b36d3a73/d2a090461d021793b36d3a73438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Grotesquerie-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/b8372956a3a7b788ada29585/b8372956a3a7b788ada29585438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Grotesquerie-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/dc2b14a90109dc5172f40332/dc2b14a90109dc5172f40332438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Grotesquerie-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/21725eb50f1a7d7b59d64b4c/21725eb50f1a7d7b59d64b4c438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Grotesquerie-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/fd92cb1e15f8087a637a3aff/fd92cb1e15f8087a637a3aff438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Grotesquerie-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/27492704bad6bca05f2ef9df/27492704bad6bca05f2ef9df438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Grotesquerie-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/aa6f5115c980e2ee15da38f0/aa6f5115c980e2ee15da38f0438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Grotesquerie-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/f63cba2a4e90e43af41f6228/f63cba2a4e90e43af41f6228438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Grotesquerie-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/37631658872636de3a83f818/37631658872636de3a83f818438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Grotesquerie-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/94cf827082790e467f5c4642/94cf827082790e467f5c4642438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "THE PENGUIN (2024) [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/11/THE-PENGUIN-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/THE-PENGUIN-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/65de305c89d9a1add757ee3f/65de305c89d9a1add757ee3f438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/THE-PENGUIN-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/48f7a9472286da3c7ad72d99/48f7a9472286da3c7ad72d99438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/THE-PENGUIN-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/28d7636efc7b850d2af41ea2/28d7636efc7b850d2af41ea2438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/THE-PENGUIN-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/69a2265c3fa2915a4b5a418a/69a2265c3fa2915a4b5a418a438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/THE-PENGUIN-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/81cc7434745c5c1efc43f9f0/81cc7434745c5c1efc43f9f0438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/THE-PENGUIN-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/89eb692c6d6b292c9befd09a/89eb692c6d6b292c9befd09a438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/THE-PENGUIN-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/977c4768b89f27bb8155a57f/977c4768b89f27bb8155a57f438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/11/THE-PENGUIN-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/6e86f8f1321d7eb8de328c1e/6e86f8f1321d7eb8de328c1e438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Agatha All Along (2024) [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Agatha-All-Along-2024-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Agatha-All-Along-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/8cc4c31a229734c4760d179a/8cc4c31a229734c4760d179a438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Agatha-All-Along-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/fa16e6e86bd7a64cff630c3f/fa16e6e86bd7a64cff630c3f438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Agatha-All-Along-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/29e15dc5ff5780879f2eb2e2/29e15dc5ff5780879f2eb2e2438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Agatha-All-Along-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/d7098442f61e991a989b11e5/d7098442f61e991a989b11e5438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Agatha-All-Along-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/bad4638825266ee3a512f365/bad4638825266ee3a512f365438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Agatha-All-Along-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/d6484b75df9c2cfb6607cfb9/d6484b75df9c2cfb6607cfb9438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Agatha-All-Along-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/36b8212b21ae73a3d79316ea/36b8212b21ae73a3d79316ea438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Agatha-All-Along-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/717f561b838fb8b20ff85a55/717f561b838fb8b20ff85a55438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Agatha-All-Along-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/b7d0909917d62d48ea913f1b/b7d0909917d62d48ea913f1b438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Bad Monkey (2024) [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Bad-Monkey-2024-300x450.jpg",
+      "info": "HD(EN)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Bad-Monkey-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/13b8d1c08f55c3b3c4852d24/13b8d1c08f55c3b3c4852d24438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Bad-Monkey-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/6665eb1c0944c0e07fce8366/6665eb1c0944c0e07fce8366438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Bad-Monkey-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/a5dd9d0f8f138fe422a3d005/a5dd9d0f8f138fe422a3d005438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Bad-Monkey-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/b47b601adc9236c0a97e6317/b47b601adc9236c0a97e6317438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Bad-Monkey-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/061910a99284d8edd633d9fa/061910a99284d8edd633d9fa438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Bad-Monkey-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/85564338a13dc7f393e8c51a/85564338a13dc7f393e8c51a438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Bad-Monkey-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/170f994e3d8d9bb793187003/170f994e3d8d9bb793187003438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Bad-Monkey-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/28da867a5f93d44f74ece267/28da867a5f93d44f74ece267438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Bad-Monkey-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/f542b718574f08e5da532356/f542b718574f08e5da532356438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Bad-Monkey-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/f587c5313d16ef0bfafcea71/f587c5313d16ef0bfafcea71438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "The Lord of the Rings (2024) The Rings of Power 2 [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-2024-The-Rings-of-Power-2-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-2024-The-Rings-of-Power-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/7ad97b04a8eb3e52c1ae116f/7ad97b04a8eb3e52c1ae116f438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-2024-The-Rings-of-Power-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/02faaaa886a79872ed729f37/02faaaa886a79872ed729f37438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-2024-The-Rings-of-Power-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/b7d878d8c8f81f05334e16fe/b7d878d8c8f81f05334e16fe438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-2024-The-Rings-of-Power-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/5a761d727c43517a74dfa9bd/5a761d727c43517a74dfa9bd438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-2024-The-Rings-of-Power-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/eb1e89a2a2e0c9db7e975066/eb1e89a2a2e0c9db7e975066438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-2024-The-Rings-of-Power-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/a1b6817dc0c32d88ec247066/a1b6817dc0c32d88ec247066438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-2024-The-Rings-of-Power-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/729afa18c2d077375c509b1f/729afa18c2d077375c509b1f438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-2024-The-Rings-of-Power-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/a10fb40ad5b10540a605f883/a10fb40ad5b10540a605f883438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Emily in Paris Season 4 (2024) [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Emily-in-Paris-Season-4-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Emily-in-Paris-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/bce87d12c938f1ef1e71bf11/bce87d12c938f1ef1e71bf11438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Emily-in-Paris-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/58a66d5da66eac535ca4e6ce/58a66d5da66eac535ca4e6ce438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Emily-in-Paris-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/6db247a8cc29d4c38f9aebec/6db247a8cc29d4c38f9aebec438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Emily-in-Paris-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/ba3b1342be7fa609cf60057f/ba3b1342be7fa609cf60057f438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Emily-in-Paris-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/57493880eb58b960efef1618/57493880eb58b960efef1618438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Emily-in-Paris-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/9e7a37e3020def8e22cf67ca/9e7a37e3020def8e22cf67ca438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Emily-in-Paris-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/79c9464cb0c3f19ca4ee5b57/79c9464cb0c3f19ca4ee5b57438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Emily-in-Paris-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/a0d9d80ebfc1b233d6d76772/a0d9d80ebfc1b233d6d76772438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Emily-in-Paris-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/82c4028a0d9718e7648884f2/82c4028a0d9718e7648884f2438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Emily-in-Paris-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/f1cdfb3878cd19aaff1a6131/f1cdfb3878cd19aaff1a6131438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Outlast Season 2 (2024) เอาท์ลาสต์ 2 [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Outlast-Season-2-300x450.jpg",
+      "info": "HD(EN)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Outlast-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/2078542a7abbabb964f91a3d/2078542a7abbabb964f91a3d438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Outlast-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/1fd9c9288228756beee3c0cb/1fd9c9288228756beee3c0cb438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Outlast-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/5c0f0aa91f2408ca55248adc/5c0f0aa91f2408ca55248adc438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Outlast-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/32f47c5bc616ef885e225d3a/32f47c5bc616ef885e225d3a438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Outlast-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/49ab7919dab9bbfaddecc4b5/49ab7919dab9bbfaddecc4b5438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Outlast-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/bfb3db347a747a454c96511b/bfb3db347a747a454c96511b438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Time Bandits (2024) [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Time-Bandits-300x450.jpg",
+      "info": "HD(EN)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Time-Bandits-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/935ef6191d091cfee4e2afde/935ef6191d091cfee4e2afde438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Time-Bandits-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/e8679672e8e3aeffdcdc7330/e8679672e8e3aeffdcdc7330438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Time-Bandits-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/b5bd44b0121d35aba5a29c71/b5bd44b0121d35aba5a29c71438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Time-Bandits-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/9d80b7b0fc2df9dc961bf8d1/9d80b7b0fc2df9dc961bf8d1438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Time-Bandits-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/709c71942f6f79824b3df43d/709c71942f6f79824b3df43d438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Time-Bandits-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/8ba40e45ed6fea08fd8e924e/8ba40e45ed6fea08fd8e924e438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Time-Bandits-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/fccc412aa3774a8ad048ab79/fccc412aa3774a8ad048ab79438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Time-Bandits-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/b6d4399068b002a3395deccf/b6d4399068b002a3395deccf438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Time-Bandits-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/30e91cb29da5a42f81cfc433/30e91cb29da5a42f81cfc433438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Time-Bandits-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/14b4d4d0a57d672e4749ab6b/14b4d4d0a57d672e4749ab6b438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "The Umbrella Academy 4 (2024) ดิ อัมเบรลลา อคาเดมี่ ซีซั่น 4 [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/The-Umbrella-Academy-4-2024-ดิ-อัมเบรลลา-อคาเดมี่-ซีซั่น-4-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/The-Umbrella-Academy-4-2024-ดิ-อัมเบรลลา-อคาเดมี่-ซีซั่น-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/c71ead988415eeb980bc8844/c71ead988415eeb980bc8844438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/The-Umbrella-Academy-4-2024-ดิ-อัมเบรลลา-อคาเดมี่-ซีซั่น-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/d937022fcd7076bebdf46469/d937022fcd7076bebdf46469438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/The-Umbrella-Academy-4-2024-ดิ-อัมเบรลลา-อคาเดมี่-ซีซั่น-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/8119c1d6057f94b164905c72/8119c1d6057f94b164905c72438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/The-Umbrella-Academy-4-2024-ดิ-อัมเบรลลา-อคาเดมี่-ซีซั่น-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/eb28cf645fa35820cdfb0f0f/eb28cf645fa35820cdfb0f0f438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/The-Umbrella-Academy-4-2024-ดิ-อัมเบรลลา-อคาเดมี่-ซีซั่น-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/6d8a546e96c43db5c26544c5/6d8a546e96c43db5c26544c5438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/The-Umbrella-Academy-4-2024-ดิ-อัมเบรลลา-อคาเดมี่-ซีซั่น-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/eaca5734d65412fbe36d9805/eaca5734d65412fbe36d9805438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Shahmaran Season 2 (2024) ชาห์มารัน ซีซั่น 2 [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Shahmaran-Season-2-300x450.jpg",
+      "info": "HD(EN)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Shahmaran-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/9f13a7373bc2cf5160cab041/9f13a7373bc2cf5160cab041438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Shahmaran-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/756e413363e8426c6bfd288e/756e413363e8426c6bfd288e438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Shahmaran-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/00a1c3672519c11beab17014/00a1c3672519c11beab17014438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Shahmaran-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/31c8ff0d3dfab3267bd4f8d5/31c8ff0d3dfab3267bd4f8d5438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Shahmaran-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/e629d855d6e876c511a71367/e629d855d6e876c511a71367438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Shahmaran-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/b009e6b00cb2d0d1dd35dc37/b009e6b00cb2d0d1dd35dc37438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Shahmaran (2023) ชาห์มารัน [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Shahmaran-300x450.jpg",
+      "info": "HD(EN)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Shahmaran-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/b87b492662b15a80bda81df9/b87b492662b15a80bda81df9438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Shahmaran-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/0ba51006f6bf66633d16b06a/0ba51006f6bf66633d16b06a438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Shahmaran-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/423f5ff7c9ae15e69a395f61/423f5ff7c9ae15e69a395f61438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Shahmaran-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/37c66cf352dccf369239b64b/37c66cf352dccf369239b64b438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Shahmaran-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/47257f0d438c3b4e792594bf/47257f0d438c3b4e792594bf438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Shahmaran-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/f6e108b4a0401d19a41c5aa4/f6e108b4a0401d19a41c5aa4438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Shahmaran-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/693b0ed48183cc7e31a0fe71/693b0ed48183cc7e31a0fe71438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Shahmaran-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/42d77abce1549e392d074be4/42d77abce1549e392d074be4438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "House of the Dragon Season 2 (2024) [ยังไม่จบ]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/House-of-the-Dragon-Season-2-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/House-of-the-Dragon-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/c2e0601ec12c4d9841c867ba/c2e0601ec12c4d9841c867ba438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/House-of-the-Dragon-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/0954af38e1fcc5fbd96d7535/0954af38e1fcc5fbd96d7535438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/House-of-the-Dragon-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/ce718e0df1e5a23f15387965/ce718e0df1e5a23f15387965438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/House-of-the-Dragon-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/4bc9d51c670eeecedab9448f/4bc9d51c670eeecedab9448f438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/House-of-the-Dragon-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/9af81aed3dcead33aa1042f4/9af81aed3dcead33aa1042f4438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/House-of-the-Dragon-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/0b4fe5cfc28c8d65812d8570/0b4fe5cfc28c8d65812d8570438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/House-of-the-Dragon-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/437f7f98b783d2ac13f09656/437f7f98b783d2ac13f09656438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/House-of-the-Dragon-Season-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/6d2ab09cc8c39bcf1216c403/6d2ab09cc8c39bcf1216c403438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "The Boys Season 4 (2024) ก๊วนหนุ่มซ่าล่าซูเปอร์ฮีโร่ [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/The-Boys-Season-4-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/The-Boys-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/847439566daa2a05e244ddd9/847439566daa2a05e244ddd9438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/The-Boys-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/b53d35044ec36d1723a99012/b53d35044ec36d1723a99012438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/The-Boys-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/2bbae78ea6592f27e5c1fddf/2bbae78ea6592f27e5c1fddf438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/The-Boys-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/15fc69a3f4a9ebf0011838a6/15fc69a3f4a9ebf0011838a6438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/The-Boys-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/5f2bcaca5b9a316bd2eba1ca/5f2bcaca5b9a316bd2eba1ca438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/The-Boys-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/2490e2d5a1ce7ce8b45a78db/2490e2d5a1ce7ce8b45a78db438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/The-Boys-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/03e43dbc229442e0c16cd891/03e43dbc229442e0c16cd891438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/The-Boys-Season-4-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/bdcfae61c86528bcd20db9d6/bdcfae61c86528bcd20db9d6438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Star War The Acolyte (2024) [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Star-War-The-Acolyte-2024-300x450.jpg",
+      "info": "HD(EN)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Star-War-The-Acolyte-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/97f35ac7fff73147d0ba2a63/97f35ac7fff73147d0ba2a63438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Star-War-The-Acolyte-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/89caf638c85c56305ab455c4/89caf638c85c56305ab455c4438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Star-War-The-Acolyte-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/c8c383dcba2c63b8a09fac13/c8c383dcba2c63b8a09fac13438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Star-War-The-Acolyte-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/94e69cab45a48f4e6cd7efd5/94e69cab45a48f4e6cd7efd5438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Star-War-The-Acolyte-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/3a7f276ec32c6413f31b9676/3a7f276ec32c6413f31b9676438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Star-War-The-Acolyte-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/88f1a4fb4060308f507d0e5d/88f1a4fb4060308f507d0e5d438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Star-War-The-Acolyte-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/5f9c5e144ad8afeedc072583/5f9c5e144ad8afeedc072583438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Star-War-The-Acolyte-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/68c71d784f8aa289d0376361/68c71d784f8aa289d0376361438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Bridgerton Season 3 (2024) วังวนรัก เกมไฮโซ 3 [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Bridgerton-Season-3-2024-วังวนรัก-เกมไฮโซ-3-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Bridgerton-Season-3-2024-วังวนรัก-เกมไฮโซ-3-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/6b179192e39b98e8d67f8cb8/6b179192e39b98e8d67f8cb8438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Bridgerton-Season-3-2024-วังวนรัก-เกมไฮโซ-3-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/6589033b87b675d03827cb4e/6589033b87b675d03827cb4e438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Bridgerton-Season-3-2024-วังวนรัก-เกมไฮโซ-3-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/07ce878bb13ce95709851371/07ce878bb13ce95709851371438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Bridgerton-Season-3-2024-วังวนรัก-เกมไฮโซ-3-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/e864ed5e6ee981b5ff06a8d7/e864ed5e6ee981b5ff06a8d7438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Bridgerton-Season-3-2024-วังวนรัก-เกมไฮโซ-3-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/2f91837959dc0e13fb7087eb/2f91837959dc0e13fb7087eb438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Bridgerton-Season-3-2024-วังวนรัก-เกมไฮโซ-3-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/06d31472bc2429b98110f856/06d31472bc2429b98110f856438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Bridgerton-Season-3-2024-วังวนรัก-เกมไฮโซ-3-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/5ed4a2d2d6133dec401c731e/5ed4a2d2d6133dec401c731e438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Bridgerton-Season-3-2024-วังวนรัก-เกมไฮโซ-3-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/29a179ae80b6c2e6e50d1652/29a179ae80b6c2e6e50d1652438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Sweet Tooth Season 3 (2024) สวีททูธ 3 [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Sweet-Tooth-Season-3-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Sweet-Tooth-Season-3-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/d1baa311f34c286dfdf3f7ac/d1baa311f34c286dfdf3f7ac438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Sweet-Tooth-Season-3-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/31501c48e1bc5ac7795474c1/31501c48e1bc5ac7795474c1438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Sweet-Tooth-Season-3-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/772074e3054fd42f2bedcb2b/772074e3054fd42f2bedcb2b438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Sweet-Tooth-Season-3-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/05a3daa0448327594e244618/05a3daa0448327594e244618438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Sweet-Tooth-Season-3-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/6b0c80b99383e6a24ebbd44c/6b0c80b99383e6a24ebbd44c438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Sweet-Tooth-Season-3-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/11b192b942a29c0e6798410e/11b192b942a29c0e6798410e438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Sweet-Tooth-Season-3-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/4db51dc4f82feb5ce2c344f8/4db51dc4f82feb5ce2c344f8438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Sweet-Tooth-Season-3-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/7ca43ca7a0ece14eee260eb1/7ca43ca7a0ece14eee260eb1438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "The Sympathizer (2024) [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Sympathizer-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Sympathizer-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/62e1ce6cc24a4db005edd478/62e1ce6cc24a4db005edd478438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Sympathizer-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/21541cc87f75bb3bcc9989d6/21541cc87f75bb3bcc9989d6438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Sympathizer-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/c70d56e198686eb67deb4089/c70d56e198686eb67deb4089438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Sympathizer-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/cbfc67fd995c699b96c0b7e9/cbfc67fd995c699b96c0b7e9438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Sympathizer-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/c98076d227def04c3c5eec44/c98076d227def04c3c5eec44438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Sympathizer-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/0f13c66be1b94c9f525731ab/0f13c66be1b94c9f525731ab438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Sympathizer-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/bd258f3eabd36773a211d480/bd258f3eabd36773a211d480438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "The Veil (2024) [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/05/The-Veil-2024-300x450.jpg",
+      "info": "HD(EN)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/05/The-Veil-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/38700be72138b68d37faf634/38700be72138b68d37faf634438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/05/The-Veil-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/7dec1a65c5eda7c471b87e63/7dec1a65c5eda7c471b87e63438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/05/The-Veil-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/5bc1774925782beca4349da8/5bc1774925782beca4349da8438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/05/The-Veil-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/7d758994836c56f9ddaf5e49/7d758994836c56f9ddaf5e49438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/05/The-Veil-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/0f84bf7cc8008524617bd025/0f84bf7cc8008524617bd025438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/05/The-Veil-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/64d63aa442e6b6c85fcfbe39/64d63aa442e6b6c85fcfbe39438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Dead Boy Detectives (2024) เดดบอยดีเทคทีฟส์ [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Dead-Boy-Detectives-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Dead-Boy-Detectives-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/73407ee0efdf5f124253e3c2/73407ee0efdf5f124253e3c2438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Dead-Boy-Detectives-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/b8367f75099e54547e38904f/b8367f75099e54547e38904f438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Dead-Boy-Detectives-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/633134fd7669ca14c6311934/633134fd7669ca14c6311934438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Dead-Boy-Detectives-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/ac95941d5dc67def5c8fca21/ac95941d5dc67def5c8fca21438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Dead-Boy-Detectives-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/69a9d4bffc6f5522647d9bac/69a9d4bffc6f5522647d9bac438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Dead-Boy-Detectives-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/bb87b0046c77d7d853ff238c/bb87b0046c77d7d853ff238c438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Dead-Boy-Detectives-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/016518685e63f443e10a6570/016518685e63f443e10a6570438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Dead-Boy-Detectives-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/6b12140cf0f271029ef5c293/6b12140cf0f271029ef5c293438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Tokyo Vice (2022) โตเกียว เมืองคนอันตราย [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-2022-โตเกียว-เมืองคนอันตราย-300x450.jpg",
+      "info": "HD(EN)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-2022-โตเกียว-เมืองคนอันตราย-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/4a0f40df2b2a344f43032723/4a0f40df2b2a344f43032723438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-2022-โตเกียว-เมืองคนอันตราย-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/b21962364833594cb024f607/b21962364833594cb024f607438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-2022-โตเกียว-เมืองคนอันตราย-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/afb594226c24a611ab4db0d9/afb594226c24a611ab4db0d9438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-2022-โตเกียว-เมืองคนอันตราย-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/4ce46a07542714752b5dc980/4ce46a07542714752b5dc980438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-2022-โตเกียว-เมืองคนอันตราย-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/1e410c881eed60cf2b610f02/1e410c881eed60cf2b610f02438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-2022-โตเกียว-เมืองคนอันตราย-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/9c99330aafc8ae36524d5fc2/9c99330aafc8ae36524d5fc2438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-2022-โตเกียว-เมืองคนอันตราย-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/8e4b7deaf95f9db84a254927/8e4b7deaf95f9db84a254927438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-2022-โตเกียว-เมืองคนอันตราย-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/4f0fb60fbcb61f40cd51ffed/4f0fb60fbcb61f40cd51ffed438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Tokyo Vice Sesson 2 (2024) โตเกียว เมืองคนอันตราย ซีซั่น 2 [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-Sesson-2-2024-โตเกียว-เมืองคนอันตราย-ซีซั่น-2-300x450.jpg",
+      "info": "HD(EN)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-Sesson-2-2024-โตเกียว-เมืองคนอันตราย-ซีซั่น-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/a7d8a336bef39df2265ccaff/a7d8a336bef39df2265ccaff438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-Sesson-2-2024-โตเกียว-เมืองคนอันตราย-ซีซั่น-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/f67c789151aad6c8038f6961/f67c789151aad6c8038f6961438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-Sesson-2-2024-โตเกียว-เมืองคนอันตราย-ซีซั่น-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/d3a04f24dee205f3a59e89b9/d3a04f24dee205f3a59e89b9438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-Sesson-2-2024-โตเกียว-เมืองคนอันตราย-ซีซั่น-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/da9edad803b19f4387f95afd/da9edad803b19f4387f95afd438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-Sesson-2-2024-โตเกียว-เมืองคนอันตราย-ซีซั่น-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/94075c827ed1cf9847283520/94075c827ed1cf9847283520438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-Sesson-2-2024-โตเกียว-เมืองคนอันตราย-ซีซั่น-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/46a3ea49cf1c47e8dea02bf9/46a3ea49cf1c47e8dea02bf9438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-Sesson-2-2024-โตเกียว-เมืองคนอันตราย-ซีซั่น-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/c69dbe28745c89a39c0cc67e/c69dbe28745c89a39c0cc67e438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-Sesson-2-2024-โตเกียว-เมืองคนอันตราย-ซีซั่น-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/bd7639f0f762dfc8dc31750e/bd7639f0f762dfc8dc31750e438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-Sesson-2-2024-โตเกียว-เมืองคนอันตราย-ซีซั่น-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/ca6e2a09245ef8802373fa15/ca6e2a09245ef8802373fa15438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Tokyo-Vice-Sesson-2-2024-โตเกียว-เมืองคนอันตราย-ซีซั่น-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/dba7fa8631fcce9dbf456b9b/dba7fa8631fcce9dbf456b9b438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Manhunt (2024) [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Manhunt-2024-300x450.jpg",
+      "info": "HD(EN)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Manhunt-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/8a363d935259bcec4fbd3a0b/8a363d935259bcec4fbd3a0b438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Manhunt-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/9b9352802b929ff77297c223/9b9352802b929ff77297c223438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Manhunt-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/478f58cda861c73b8ec3e08b/478f58cda861c73b8ec3e08b438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Manhunt-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/c263d3671e88b53b51449ded/c263d3671e88b53b51449ded438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Manhunt-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/771dfe6bad806f5b2c9f121a/771dfe6bad806f5b2c9f121a438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Manhunt-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/157a4712e205eb079a6b9644/157a4712e205eb079a6b9644438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Manhunt-2024-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/81905592484aeff2849768b0/81905592484aeff2849768b0438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Fallout (2024) ฟอลล์เอาท์ ภารกิจฝ่าแดนฝุ่นมฤตยู [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Fallout-2024-ฟอลล์เอาท์-ภารกิจฝ่าแดนฝุ่นมฤตยู-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Fallout-2024-ฟอลล์เอาท์-ภารกิจฝ่าแดนฝุ่นมฤตยู-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/6d8b074221291589573e898b/6d8b074221291589573e898b438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Fallout-2024-ฟอลล์เอาท์-ภารกิจฝ่าแดนฝุ่นมฤตยู-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/a28db43f2888bab956019c35/a28db43f2888bab956019c35438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Fallout-2024-ฟอลล์เอาท์-ภารกิจฝ่าแดนฝุ่นมฤตยู-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/8195e714667817a6ce8a1fe5/8195e714667817a6ce8a1fe5438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Fallout-2024-ฟอลล์เอาท์-ภารกิจฝ่าแดนฝุ่นมฤตยู-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/374d4f010db8969494c48759/374d4f010db8969494c48759438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Fallout-2024-ฟอลล์เอาท์-ภารกิจฝ่าแดนฝุ่นมฤตยู-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/22699db8d5a80d5e8b48a330/22699db8d5a80d5e8b48a330438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Fallout-2024-ฟอลล์เอาท์-ภารกิจฝ่าแดนฝุ่นมฤตยู-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/8202d178e4d12a396e89137c/8202d178e4d12a396e89137c438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Fallout-2024-ฟอลล์เอาท์-ภารกิจฝ่าแดนฝุ่นมฤตยู-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/45183f3a87e180367196cebf/45183f3a87e180367196cebf438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Fallout-2024-ฟอลล์เอาท์-ภารกิจฝ่าแดนฝุ่นมฤตยู-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/12616f78f623a3849e84869a/12616f78f623a3849e84869a438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "The Hijacking of Flight 601 (2024) จี้เที่ยวบิน 601 [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Hijacking-of-Flight-601-300x450.jpg",
+      "info": "HD(EN)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Hijacking-of-Flight-601-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/66ba6d51e623ca61d45bd0c5/66ba6d51e623ca61d45bd0c5438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Hijacking-of-Flight-601-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/7b60f265663fa57c345c1e10/7b60f265663fa57c345c1e10438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Hijacking-of-Flight-601-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/8b1f3844598adcc9b73e717a/8b1f3844598adcc9b73e717a438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Hijacking-of-Flight-601-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/1e84c62cad1ac02b591f3a8f/1e84c62cad1ac02b591f3a8f438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Hijacking-of-Flight-601-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/d476878b1d4b8f8a12b219a8/d476878b1d4b8f8a12b219a8438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Hijacking-of-Flight-601-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/ceaca216d77b6de3c9030bd0/ceaca216d77b6de3c9030bd0438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Anthracite (2024) เถ้าความตาย [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Anthracite-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Anthracite-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/337ea1acaf09a61fd5b23067/337ea1acaf09a61fd5b23067438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Anthracite-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/5c5f17fb2a5cc0ea3bc4f1c8/5c5f17fb2a5cc0ea3bc4f1c8438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Anthracite-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/cc8913399488e581a6a7d2d0/cc8913399488e581a6a7d2d0438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Anthracite-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/4c464355dbd5091d370461ac/4c464355dbd5091d370461ac438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Anthracite-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/1a66124e0f215d6bd672c36c/1a66124e0f215d6bd672c36c438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Anthracite-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/c322cd9b4776fc999da248ec/c322cd9b4776fc999da248ec438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Crooks (2024) ทางโจร [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Crooks-2024-ทางโจร-300x450.jpg",
+      "info": "HD(TH)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Crooks-2024-ทางโจร-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/6c9aa20caabfe4a3975b33b4/6c9aa20caabfe4a3975b33b4438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Crooks-2024-ทางโจร-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/7eef0c0ac7e2265060eb3762/7eef0c0ac7e2265060eb3762438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Crooks-2024-ทางโจร-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/137b515179120a700bf3df13/137b515179120a700bf3df13438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Crooks-2024-ทางโจร-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/756dbf53bf98e57253cd3533/756dbf53bf98e57253cd3533438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Crooks-2024-ทางโจร-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/521a99217bda80ddd658edd9/521a99217bda80ddd658edd9438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Crooks-2024-ทางโจร-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/afe02b13a843ae977b64e80f/afe02b13a843ae977b64e80f438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Crooks-2024-ทางโจร-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/6e2b587f1654d763168f5ee7/6e2b587f1654d763168f5ee7438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Crooks-2024-ทางโจร-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/064942cf11b6d8ce780bf595/064942cf11b6d8ce780bf595438.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Renegade Nell (2024) [จบแล้ว]",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Renegade-Nell-300x450.jpg",
+      "info": "HD(EN)",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Renegade-Nell-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/e848347aa4d9655a9ccf9c65/e848347aa4d9655a9ccf9c65438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Renegade-Nell-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/9aaedfcc222607762c325635/9aaedfcc222607762c325635438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Renegade-Nell-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/8d07eeca2025fca3ac4b383c/8d07eeca2025fca3ac4b383c438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Renegade-Nell-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/400de0354ada4cdae5200956/400de0354ada4cdae5200956438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Renegade-Nell-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/ea91822f9659eca05966bfa9/ea91822f9659eca05966bfa9438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Renegade-Nell-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/017ff3c3d66b9e5ecd0d4f06/017ff3c3d66b9e5ecd0d4f06438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Renegade-Nell-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/b5d7551a0fc06e950e8ec5c0/b5d7551a0fc06e950e8ec5c0438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Renegade-Nell-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/3723e125205f757b0f8dc25a/3723e125205f757b0f8dc25a438.m3u8"
+        }
+      ]
+    },
     {
       "name": "3 Body Problem (2024) ดาวซานถี่ อุบัติการณ์สงครามล้างโลก [จบแล้ว]",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/03/3-Body-Problem-2024-ดาวซานถี่-อุบัติการณ์สงครามล้างโลก-300x450.jpg",
@@ -14,49 +1641,49 @@
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/3-Body-Problem-2024-ดาวซานถี่-อุบัติการณ์สงครามล้างโลก-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/049c3f08bbf0b651b0c7819c/049c3f08bbf0b651b0c7819c438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/049c3f08bbf0b651b0c7819c/049c3f08bbf0b651b0c7819c438.m3u8"
         },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/3-Body-Problem-2024-ดาวซานถี่-อุบัติการณ์สงครามล้างโลก-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/5fa87b787862c9745884c934/5fa87b787862c9745884c934438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/5fa87b787862c9745884c934/5fa87b787862c9745884c934438.m3u8"
         },
         {
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/3-Body-Problem-2024-ดาวซานถี่-อุบัติการณ์สงครามล้างโลก-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/d4caf1ed0b1c2a8a60c980f1/d4caf1ed0b1c2a8a60c980f1438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/d4caf1ed0b1c2a8a60c980f1/d4caf1ed0b1c2a8a60c980f1438.m3u8"
         },
         {
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/3-Body-Problem-2024-ดาวซานถี่-อุบัติการณ์สงครามล้างโลก-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/3d6d7068a467197490c456db/3d6d7068a467197490c456db438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/3d6d7068a467197490c456db/3d6d7068a467197490c456db438.m3u8"
         },
         {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/3-Body-Problem-2024-ดาวซานถี่-อุบัติการณ์สงครามล้างโลก-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/4ef3d5f38d57a85a16ba5003/4ef3d5f38d57a85a16ba5003438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/4ef3d5f38d57a85a16ba5003/4ef3d5f38d57a85a16ba5003438.m3u8"
         },
         {
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/3-Body-Problem-2024-ดาวซานถี่-อุบัติการณ์สงครามล้างโลก-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/78099c5354cc5973e694d210/78099c5354cc5973e694d210438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/78099c5354cc5973e694d210/78099c5354cc5973e694d210438.m3u8"
         },
         {
           "name": "ตอนที่ 7",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/3-Body-Problem-2024-ดาวซานถี่-อุบัติการณ์สงครามล้างโลก-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/55172f086763a04be65a6bf6/55172f086763a04be65a6bf6438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/55172f086763a04be65a6bf6/55172f086763a04be65a6bf6438.m3u8"
         },
         {
           "name": "ตอนที่ 8",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/3-Body-Problem-2024-ดาวซานถี่-อุบัติการณ์สงครามล้างโลก-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/c647548b5845fbbb55663399/c647548b5845fbbb55663399438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/c647548b5845fbbb55663399/c647548b5845fbbb55663399438.m3u8"
         }
       ]
     },
@@ -69,55 +1696,55 @@
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Masters-of-the-Air-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/0098a896b5e1b2d02349f41c/0098a896b5e1b2d02349f41c438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/0098a896b5e1b2d02349f41c/0098a896b5e1b2d02349f41c438.m3u8"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Masters-of-the-Air-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/4b1f3f508ce23705661130d6/4b1f3f508ce23705661130d6438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/4b1f3f508ce23705661130d6/4b1f3f508ce23705661130d6438.m3u8"
         },
         {
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Masters-of-the-Air-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/9d8ccc64afa252b7af9800fa/9d8ccc64afa252b7af9800fa438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/9d8ccc64afa252b7af9800fa/9d8ccc64afa252b7af9800fa438.m3u8"
         },
         {
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Masters-of-the-Air-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/a9a8aed986fd04970ec7be42/a9a8aed986fd04970ec7be42438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/a9a8aed986fd04970ec7be42/a9a8aed986fd04970ec7be42438.m3u8"
         },
         {
           "name": "ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Masters-of-the-Air-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/4c8f50d377913d8fa8c9c562/4c8f50d377913d8fa8c9c562438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/4c8f50d377913d8fa8c9c562/4c8f50d377913d8fa8c9c562438.m3u8"
         },
         {
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Masters-of-the-Air-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/f37f5e1d0197bb024c78d0e8/f37f5e1d0197bb024c78d0e8438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/f37f5e1d0197bb024c78d0e8/f37f5e1d0197bb024c78d0e8438.m3u8"
         },
         {
           "name": "ตอนที่ 7",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Masters-of-the-Air-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/5fb2bac8c3d5cd8ef4316bcc/5fb2bac8c3d5cd8ef4316bcc438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/5fb2bac8c3d5cd8ef4316bcc/5fb2bac8c3d5cd8ef4316bcc438.m3u8"
         },
         {
           "name": "ตอนที่ 8",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Masters-of-the-Air-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/71aad0fd85124d0e23f940eb/71aad0fd85124d0e23f940eb438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/71aad0fd85124d0e23f940eb/71aad0fd85124d0e23f940eb438.m3u8"
         },
         {
           "name": "ตอนที่ 9",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Masters-of-the-Air-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/f1c43c911204cfe6deea9f6f/f1c43c911204cfe6deea9f6f438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/f1c43c911204cfe6deea9f6f/f1c43c911204cfe6deea9f6f438.m3u8"
         }
       ]
     },
@@ -130,43 +1757,43 @@
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Bandidos-2024-คนล่าสมบัติ-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/2b7b7ab7a82b35ff9992e8ba/2b7b7ab7a82b35ff9992e8ba438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/2b7b7ab7a82b35ff9992e8ba/2b7b7ab7a82b35ff9992e8ba438.m3u8"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Bandidos-2024-คนล่าสมบัติ-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/5c724dee7421ef7afa703730/5c724dee7421ef7afa703730438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/5c724dee7421ef7afa703730/5c724dee7421ef7afa703730438.m3u8"
         },
         {
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Bandidos-2024-คนล่าสมบัติ-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/a27a4a49d2d264f97e2e8a51/a27a4a49d2d264f97e2e8a51438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/a27a4a49d2d264f97e2e8a51/a27a4a49d2d264f97e2e8a51438.m3u8"
         },
         {
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Bandidos-2024-คนล่าสมบัติ-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/c7b16d125de849f0c799aa28/c7b16d125de849f0c799aa28438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/c7b16d125de849f0c799aa28/c7b16d125de849f0c799aa28438.m3u8"
         },
         {
           "name": "ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Bandidos-2024-คนล่าสมบัติ-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/2baab41d87b8757d7325698c/2baab41d87b8757d7325698c438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/2baab41d87b8757d7325698c/2baab41d87b8757d7325698c438.m3u8"
         },
         {
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Bandidos-2024-คนล่าสมบัติ-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/a54aa36b8675363a70b24a25/a54aa36b8675363a70b24a25438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/a54aa36b8675363a70b24a25/a54aa36b8675363a70b24a25438.m3u8"
         },
         {
           "name": "ตอนที่ 7",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Bandidos-2024-คนล่าสมบัติ-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/f5e60014c51d4008081f0ada/f5e60014c51d4008081f0ada438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/f5e60014c51d4008081f0ada/f5e60014c51d4008081f0ada438.m3u8"
         }
       ]
     },
@@ -179,61 +1806,61 @@
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Death-and-Other-Details-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/7a00d2403776d3da68440cab/7a00d2403776d3da68440cab438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/7a00d2403776d3da68440cab/7a00d2403776d3da68440cab438.m3u8"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Death-and-Other-Details-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/6a1d44a22abc36dcfa31a21a/6a1d44a22abc36dcfa31a21a438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/6a1d44a22abc36dcfa31a21a/6a1d44a22abc36dcfa31a21a438.m3u8"
         },
         {
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Death-and-Other-Details-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/46eca130b253ebe79d2522ce/46eca130b253ebe79d2522ce438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/46eca130b253ebe79d2522ce/46eca130b253ebe79d2522ce438.m3u8"
         },
         {
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Death-and-Other-Details-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/0913b295eb94a744e6bcfb4b/0913b295eb94a744e6bcfb4b438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/0913b295eb94a744e6bcfb4b/0913b295eb94a744e6bcfb4b438.m3u8"
         },
         {
           "name": "ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Death-and-Other-Details-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/52467453173fc3b8f082b281/52467453173fc3b8f082b281438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/52467453173fc3b8f082b281/52467453173fc3b8f082b281438.m3u8"
         },
         {
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Death-and-Other-Details-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/0ce12a46b6c14e8642016130/0ce12a46b6c14e8642016130438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/0ce12a46b6c14e8642016130/0ce12a46b6c14e8642016130438.m3u8"
         },
         {
           "name": "ตอนที่ 7",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Death-and-Other-Details-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/0282dc9985d2b9d62b536edb/0282dc9985d2b9d62b536edb438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/36da649d68a8e509cf27e73e/36da649d68a8e509cf27e73e438.m3u8"
         },
         {
           "name": "ตอนที่ 8",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Death-and-Other-Details-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/ff77d701b6200168fcdb860f/ff77d701b6200168fcdb860f438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/ff77d701b6200168fcdb860f/ff77d701b6200168fcdb860f438.m3u8"
         },
         {
           "name": "ตอนที่ 9",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Death-and-Other-Details-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/7a343e85ea10c878bb263f82/7a343e85ea10c878bb263f82438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/7a0c2905b383a0bbe1675db1/7a0c2905b383a0bbe1675db1438.m3u8"
         },
         {
           "name": "ตอนที่ 10",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Death-and-Other-Details-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/f02a0be9d4ffa390c5efcf59/f02a0be9d4ffa390c5efcf59438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/f02a0be9d4ffa390c5efcf59/f02a0be9d4ffa390c5efcf59438.m3u8"
         }
       ]
     },
@@ -246,49 +1873,49 @@
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Gentlemen-2024-สุภาพบุรุษมาหากัญ-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/71b962921814bb4102aa8049/71b962921814bb4102aa8049438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/71b962921814bb4102aa8049/71b962921814bb4102aa8049438.m3u8"
         },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Gentlemen-2024-สุภาพบุรุษมาหากัญ-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/a4f9c2f96340fd86a723878f/a4f9c2f96340fd86a723878f438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/a4f9c2f96340fd86a723878f/a4f9c2f96340fd86a723878f438.m3u8"
         },
         {
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Gentlemen-2024-สุภาพบุรุษมาหากัญ-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/03ac13939e0d3fa85eb77a71/03ac13939e0d3fa85eb77a71438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/933ddd5ee2eae3ffd5906ff1/933ddd5ee2eae3ffd5906ff1438.m3u8"
         },
         {
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Gentlemen-2024-สุภาพบุรุษมาหากัญ-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/92bf9505e963eafa2a086736/92bf9505e963eafa2a086736438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/92bf9505e963eafa2a086736/92bf9505e963eafa2a086736438.m3u8"
         },
         {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Gentlemen-2024-สุภาพบุรุษมาหากัญ-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/942c784d4ad5a638dc0fe83d/942c784d4ad5a638dc0fe83d438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/942c784d4ad5a638dc0fe83d/942c784d4ad5a638dc0fe83d438.m3u8"
         },
         {
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Gentlemen-2024-สุภาพบุรุษมาหากัญ-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/503ca7cfe1d3bd6e4a2d56f5/503ca7cfe1d3bd6e4a2d56f5438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/503ca7cfe1d3bd6e4a2d56f5/503ca7cfe1d3bd6e4a2d56f5438.m3u8"
         },
         {
           "name": "ตอนที่ 7",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Gentlemen-2024-สุภาพบุรุษมาหากัญ-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/c7aad729e188a5e8ce5b9c75/c7aad729e188a5e8ce5b9c75438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/c7aad729e188a5e8ce5b9c75/c7aad729e188a5e8ce5b9c75438.m3u8"
         },
         {
           "name": "ตอนที่ 8",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Gentlemen-2024-สุภาพบุรุษมาหากัญ-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/55a76c5ce3ac1061d3bc40f9/55a76c5ce3ac1061d3bc40f9438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/55a76c5ce3ac1061d3bc40f9/55a76c5ce3ac1061d3bc40f9438.m3u8"
         }
       ]
     },
@@ -301,49 +1928,49 @@
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Furies-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/5b070a5ea89f3d3321d2cfa6/5b070a5ea89f3d3321d2cfa6438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/5b070a5ea89f3d3321d2cfa6/5b070a5ea89f3d3321d2cfa6438.m3u8"
         },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Furies-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/24087e7a4a3785851a956686/24087e7a4a3785851a956686438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/24087e7a4a3785851a956686/24087e7a4a3785851a956686438.m3u8"
         },
         {
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Furies-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/d476a530309a327d725a0d65/d476a530309a327d725a0d65438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/d476a530309a327d725a0d65/d476a530309a327d725a0d65438.m3u8"
         },
         {
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Furies-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/c57ccc0345000b3248d34e2e/c57ccc0345000b3248d34e2e438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/75c7775de29ce48bdddc95e5/75c7775de29ce48bdddc95e5438.m3u8"
         },
         {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Furies-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/c2352eeb3e29a2302a29aba3/c2352eeb3e29a2302a29aba3438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/c2352eeb3e29a2302a29aba3/c2352eeb3e29a2302a29aba3438.m3u8"
         },
         {
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Furies-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/d1f17f48baf3b2099df2c3e8/d1f17f48baf3b2099df2c3e8438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/d1f17f48baf3b2099df2c3e8/d1f17f48baf3b2099df2c3e8438.m3u8"
         },
         {
           "name": "ตอนที่ 7",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Furies-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/4014d69ef64d47de41183eda/4014d69ef64d47de41183eda438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/f2b99bb21f9f0c2268c472bb/f2b99bb21f9f0c2268c472bb438.m3u8"
         },
         {
           "name": "ตอนที่ 8",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Furies-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/06fe1f1f779f5df884078069/06fe1f1f779f5df884078069438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/06fe1f1f779f5df884078069/06fe1f1f779f5df884078069438.m3u8"
         }
       ]
     },
@@ -356,31 +1983,31 @@
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Expats-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/d3e2f140a39e23a4752f07d5/d3e2f140a39e23a4752f07d5438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/d3e2f140a39e23a4752f07d5/d3e2f140a39e23a4752f07d5438.m3u8"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Expats-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/22d5b84b993ecf2291734e28/22d5b84b993ecf2291734e28438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/22d5b84b993ecf2291734e28/22d5b84b993ecf2291734e28438.m3u8"
         },
         {
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Expats-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/b7686d2b49d388ea27cfc5a7/b7686d2b49d388ea27cfc5a7438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/b7686d2b49d388ea27cfc5a7/b7686d2b49d388ea27cfc5a7438.m3u8"
         },
         {
           "name": "ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Expats-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/fcb643b8733aba047c172885/fcb643b8733aba047c172885438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/fcb643b8733aba047c172885/fcb643b8733aba047c172885438.m3u8"
         },
         {
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Expats-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/8677a518f048af2f77a64e46/8677a518f048af2f77a64e46438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/942d30714edca730f9c0efb1/942d30714edca730f9c0efb1438.m3u8"
         }
       ]
     },
@@ -393,49 +2020,49 @@
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Avatar-The-Last-Airbender-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/74e01ef1cf7c5834caba8b28/74e01ef1cf7c5834caba8b28438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/74e01ef1cf7c5834caba8b28/74e01ef1cf7c5834caba8b28438.m3u8"
         },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Avatar-The-Last-Airbender-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/b6eaed8fd6c869a21ab2fab5/b6eaed8fd6c869a21ab2fab5438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/b6eaed8fd6c869a21ab2fab5/b6eaed8fd6c869a21ab2fab5438.m3u8"
         },
         {
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Avatar-The-Last-Airbender-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/6f0ed1dcaf89998b57692b47/6f0ed1dcaf89998b57692b47438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/6f0ed1dcaf89998b57692b47/6f0ed1dcaf89998b57692b47438.m3u8"
         },
         {
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Avatar-The-Last-Airbender-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/b394078a8af83d4f9720fe4e/b394078a8af83d4f9720fe4e438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/b394078a8af83d4f9720fe4e/b394078a8af83d4f9720fe4e438.m3u8"
         },
         {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Avatar-The-Last-Airbender-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/028f049ba202795d0b344c59/028f049ba202795d0b344c59438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/028f049ba202795d0b344c59/028f049ba202795d0b344c59438.m3u8"
         },
         {
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Avatar-The-Last-Airbender-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/1a390c221196bf9afd3d7bbf/1a390c221196bf9afd3d7bbf438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/1a390c221196bf9afd3d7bbf/1a390c221196bf9afd3d7bbf438.m3u8"
         },
         {
           "name": "ตอนที่ 7",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Avatar-The-Last-Airbender-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/dd1457f64543a4b03aa24374/dd1457f64543a4b03aa24374438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/dd1457f64543a4b03aa24374/dd1457f64543a4b03aa24374438.m3u8"
         },
         {
           "name": "ตอนที่ 8",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Avatar-The-Last-Airbender-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/5b8cd437864a6ce8fa33e3f0/5b8cd437864a6ce8fa33e3f0438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/5b8cd437864a6ce8fa33e3f0/5b8cd437864a6ce8fa33e3f0438.m3u8"
         }
       ]
     },
@@ -448,49 +2075,49 @@
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Criminal-Record-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/8fa9b83b4bfe59d383de10fe/8fa9b83b4bfe59d383de10fe438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/8fa9b83b4bfe59d383de10fe/8fa9b83b4bfe59d383de10fe438.m3u8"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Criminal-Record-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/6f917836fa7bc77fa8c3be75/6f917836fa7bc77fa8c3be75438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/6f917836fa7bc77fa8c3be75/6f917836fa7bc77fa8c3be75438.m3u8"
         },
         {
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Criminal-Record-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/3c132cd012c93fce4a53bb0e/3c132cd012c93fce4a53bb0e438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/3c132cd012c93fce4a53bb0e/3c132cd012c93fce4a53bb0e438.m3u8"
         },
         {
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Criminal-Record-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/a91a45923786bb4a99b1a549/a91a45923786bb4a99b1a549438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/a91a45923786bb4a99b1a549/a91a45923786bb4a99b1a549438.m3u8"
         },
         {
           "name": "ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Criminal-Record-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/2284c79346bf08102ed93d75/2284c79346bf08102ed93d75438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/2284c79346bf08102ed93d75/2284c79346bf08102ed93d75438.m3u8"
         },
         {
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Criminal-Record-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/4150bb0c6e27abebed5131ac/4150bb0c6e27abebed5131ac438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/4150bb0c6e27abebed5131ac/4150bb0c6e27abebed5131ac438.m3u8"
         },
         {
           "name": "ตอนที่ 7",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Criminal-Record-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/22fb17347880783879737ef7/22fb17347880783879737ef7438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/22fb17347880783879737ef7/22fb17347880783879737ef7438.m3u8"
         },
         {
           "name": "ตอนที่ 8",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Criminal-Record-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/19757198c0c780b8c5dca942/19757198c0c780b8c5dca942438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/19757198c0c780b8c5dca942/19757198c0c780b8c5dca942438.m3u8"
         }
       ]
     },
@@ -503,49 +2130,49 @@
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Mr.-Mrs.-Smith-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/d9a62c5f8866383f43572274/d9a62c5f8866383f43572274438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/d9a62c5f8866383f43572274/d9a62c5f8866383f43572274438.m3u8"
         },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Mr.-Mrs.-Smith-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/85b32f929042149232a09efe/85b32f929042149232a09efe438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/85b32f929042149232a09efe/85b32f929042149232a09efe438.m3u8"
         },
         {
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Mr.-Mrs.-Smith-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/86beb5059be84b803d7e0b7e/86beb5059be84b803d7e0b7e438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/86beb5059be84b803d7e0b7e/86beb5059be84b803d7e0b7e438.m3u8"
         },
         {
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Mr.-Mrs.-Smith-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/4e121426a7594c8a10c38699/4e121426a7594c8a10c38699438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/4e121426a7594c8a10c38699/4e121426a7594c8a10c38699438.m3u8"
         },
         {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Mr.-Mrs.-Smith-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/60b46f67d74828010f12453f/60b46f67d74828010f12453f438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/60b46f67d74828010f12453f/60b46f67d74828010f12453f438.m3u8"
         },
         {
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Mr.-Mrs.-Smith-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/33367baf83e07b2b924991c8/33367baf83e07b2b924991c8438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/33367baf83e07b2b924991c8/33367baf83e07b2b924991c8438.m3u8"
         },
         {
           "name": "ตอนที่ 7",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Mr.-Mrs.-Smith-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/b7b9936f71c3a070ccd593bb/b7b9936f71c3a070ccd593bb438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/b7b9936f71c3a070ccd593bb/b7b9936f71c3a070ccd593bb438.m3u8"
         },
         {
           "name": "ตอนที่ 8",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Mr.-Mrs.-Smith-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/1c4ae51ecf70970bc184e80c/1c4ae51ecf70970bc184e80c438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/1c4ae51ecf70970bc184e80c/1c4ae51ecf70970bc184e80c438.m3u8"
         }
       ]
     },
@@ -558,49 +2185,49 @@
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/3c904fc8f271e63091a0c91c/3c904fc8f271e63091a0c91c438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/3c904fc8f271e63091a0c91c/3c904fc8f271e63091a0c91c438.m3u8"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/6213479c273c83869a09098c/6213479c273c83869a09098c438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/6213479c273c83869a09098c/6213479c273c83869a09098c438.m3u8"
         },
         {
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/d56063cc13e80c9063ff9443/d56063cc13e80c9063ff9443438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/d56063cc13e80c9063ff9443/d56063cc13e80c9063ff9443438.m3u8"
         },
         {
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/2a7d060b0e1512b483889107/2a7d060b0e1512b483889107438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/2a7d060b0e1512b483889107/2a7d060b0e1512b483889107438.m3u8"
         },
         {
           "name": "ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/9e4a83dc05643194defb04dd/9e4a83dc05643194defb04dd438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/9e4a83dc05643194defb04dd/9e4a83dc05643194defb04dd438.m3u8"
         },
         {
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/96f1a59f4d4806dc79f907db/96f1a59f4d4806dc79f907db438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/96f1a59f4d4806dc79f907db/96f1a59f4d4806dc79f907db438.m3u8"
         },
         {
           "name": "ตอนที่ 7",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/cf7787940d9995271b97737f/cf7787940d9995271b97737f438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/cf7787940d9995271b97737f/cf7787940d9995271b97737f438.m3u8"
         },
         {
           "name": "ตอนที่ 8",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/42a30950c480b966714c462b/42a30950c480b966714c462b438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/42a30950c480b966714c462b/42a30950c480b966714c462b438.m3u8"
         }
       ]
     },
@@ -613,49 +2240,49 @@
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/06/The_Boys_season_3-300x450.png",
-          "url": "https://main.freecdnn.com/m3u8/401616fde8db54849fd99df2/401616fde8db54849fd99df2168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/401616fde8db54849fd99df2/401616fde8db54849fd99df2168.m3u8"
         },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/06/The_Boys_season_3-300x450.png",
-          "url": "https://main.freecdnn.com/m3u8/90b3b48f0040d3dfd7bc5431/90b3b48f0040d3dfd7bc5431168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/90b3b48f0040d3dfd7bc5431/90b3b48f0040d3dfd7bc5431168.m3u8"
         },
         {
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/06/The_Boys_season_3-300x450.png",
-          "url": "https://main.freecdnn.com/m3u8/91c98828496d2258762bab10/91c98828496d2258762bab10168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/91c98828496d2258762bab10/91c98828496d2258762bab10168.m3u8"
         },
         {
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/06/The_Boys_season_3-300x450.png",
-          "url": "https://main.freecdnn.com/m3u8/bb39287990efff8ce2ce433e/bb39287990efff8ce2ce433e168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/bb39287990efff8ce2ce433e/bb39287990efff8ce2ce433e168.m3u8"
         },
         {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/06/The_Boys_season_3-300x450.png",
-          "url": "https://main.freecdnn.com/m3u8/d4fa4bfea53396de63fc9978/d4fa4bfea53396de63fc9978168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/d4fa4bfea53396de63fc9978/d4fa4bfea53396de63fc9978168.m3u8"
         },
         {
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/06/The_Boys_season_3-300x450.png",
-          "url": "https://main.freecdnn.com/m3u8/2bb6849643ce927b2af4bcec/2bb6849643ce927b2af4bcec168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/2bb6849643ce927b2af4bcec/2bb6849643ce927b2af4bcec168.m3u8"
         },
         {
           "name": "ตอนที่ 7",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/06/The_Boys_season_3-300x450.png",
-          "url": "https://main.freecdnn.com/m3u8/ac92f0bc08d8c07521afeb6b/ac92f0bc08d8c07521afeb6b168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/ac92f0bc08d8c07521afeb6b/ac92f0bc08d8c07521afeb6b168.m3u8"
         },
         {
           "name": "ตอนที่ 8",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/06/The_Boys_season_3-300x450.png",
-          "url": "https://main.freecdnn.com/m3u8/b393390de327f746de716330/b393390de327f746de716330168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/b393390de327f746de716330/b393390de327f746de716330168.m3u8"
         }
       ]
     },
@@ -668,49 +2295,49 @@
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2020/09/The-Boys-Season-2-2020-300x450.png",
-          "url": "https://main.freecdnn.com/m3u8/8b035874aa466f4387c5fc44/8b035874aa466f4387c5fc44168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/8b035874aa466f4387c5fc44/8b035874aa466f4387c5fc44168.m3u8"
         },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2020/09/The-Boys-Season-2-2020-300x450.png",
-          "url": "https://main.freecdnn.com/m3u8/8054946e5c2bc0861f99deb3/8054946e5c2bc0861f99deb3168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/8054946e5c2bc0861f99deb3/8054946e5c2bc0861f99deb3168.m3u8"
         },
         {
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2020/09/The-Boys-Season-2-2020-300x450.png",
-          "url": "https://main.freecdnn.com/m3u8/7b4bcf9eb0cb979a92828f21/7b4bcf9eb0cb979a92828f21168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/7b4bcf9eb0cb979a92828f21/7b4bcf9eb0cb979a92828f21168.m3u8"
         },
         {
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2020/09/The-Boys-Season-2-2020-300x450.png",
-          "url": "https://main.freecdnn.com/m3u8/9e11ce965b34fbbf226defa7/9e11ce965b34fbbf226defa7168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/9e11ce965b34fbbf226defa7/9e11ce965b34fbbf226defa7168.m3u8"
         },
         {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2020/09/The-Boys-Season-2-2020-300x450.png",
-          "url": "https://main.freecdnn.com/m3u8/4fe0c2a0580bdefe401de4e5/4fe0c2a0580bdefe401de4e5168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/4fe0c2a0580bdefe401de4e5/4fe0c2a0580bdefe401de4e5168.m3u8"
         },
         {
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2020/09/The-Boys-Season-2-2020-300x450.png",
-          "url": "https://main.freecdnn.com/m3u8/51ea92628b94fb04e37ea5e5/51ea92628b94fb04e37ea5e5168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/51ea92628b94fb04e37ea5e5/51ea92628b94fb04e37ea5e5168.m3u8"
         },
         {
           "name": "ตอนที่ 7",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2020/09/The-Boys-Season-2-2020-300x450.png",
-          "url": "https://main.freecdnn.com/m3u8/0611a97593256dd17c8a082c/0611a97593256dd17c8a082c168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/0611a97593256dd17c8a082c/0611a97593256dd17c8a082c168.m3u8"
         },
         {
           "name": "ตอนที่ 8",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2020/09/The-Boys-Season-2-2020-300x450.png",
-          "url": "https://main.freecdnn.com/m3u8/6c19fe76d953d249ca10b782/6c19fe76d953d249ca10b782168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/6c19fe76d953d249ca10b782/6c19fe76d953d249ca10b782168.m3u8"
         }
       ]
     },
@@ -723,49 +2350,49 @@
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Boys-Season-1-ซับไทย-2019-250x350.png",
-          "url": "https://main.freecdnn.com/m3u8/1e7d54eec786bd9aa0de8827/1e7d54eec786bd9aa0de8827168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/1e7d54eec786bd9aa0de8827/1e7d54eec786bd9aa0de8827168.m3u8"
         },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Boys-Season-1-ซับไทย-2019-250x350.png",
-          "url": "https://main.freecdnn.com/m3u8/7b819e2af72d8accdcfbb99a/7b819e2af72d8accdcfbb99a168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/7b819e2af72d8accdcfbb99a/7b819e2af72d8accdcfbb99a168.m3u8"
         },
         {
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Boys-Season-1-ซับไทย-2019-250x350.png",
-          "url": "https://main.freecdnn.com/m3u8/727b0c614cc3e4899ed287a3/727b0c614cc3e4899ed287a3168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/727b0c614cc3e4899ed287a3/727b0c614cc3e4899ed287a3168.m3u8"
         },
         {
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Boys-Season-1-ซับไทย-2019-250x350.png",
-          "url": "https://main.freecdnn.com/m3u8/6e8f2acb681534c48b065ec8/6e8f2acb681534c48b065ec8168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/6e8f2acb681534c48b065ec8/6e8f2acb681534c48b065ec8168.m3u8"
         },
         {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Boys-Season-1-ซับไทย-2019-250x350.png",
-          "url": "https://main.freecdnn.com/m3u8/2fad4fc9460383a9fe736a4c/2fad4fc9460383a9fe736a4c168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/2fad4fc9460383a9fe736a4c/2fad4fc9460383a9fe736a4c168.m3u8"
         },
         {
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Boys-Season-1-ซับไทย-2019-250x350.png",
-          "url": "https://main.freecdnn.com/m3u8/28142923db37fefae898a81d/28142923db37fefae898a81d168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/28142923db37fefae898a81d/28142923db37fefae898a81d168.m3u8"
         },
         {
           "name": "ตอนที่ 7",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Boys-Season-1-ซับไทย-2019-250x350.png",
-          "url": "https://main.freecdnn.com/m3u8/128d7cdb4d8ba326d8214304/128d7cdb4d8ba326d8214304168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/128d7cdb4d8ba326d8214304/128d7cdb4d8ba326d8214304168.m3u8"
         },
         {
           "name": "ตอนที่ 8",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Boys-Season-1-ซับไทย-2019-250x350.png",
-          "url": "https://main.freecdnn.com/m3u8/ecc85e0edb3440972d154337/ecc85e0edb3440972d154337168.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/ecc85e0edb3440972d154337/ecc85e0edb3440972d154337168.m3u8"
         }
       ]
     },
@@ -778,49 +2405,49 @@
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Reacher-Season-2-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/2f8e29ed57b3fa022ca5f8b7/2f8e29ed57b3fa022ca5f8b7438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/2f8e29ed57b3fa022ca5f8b7/2f8e29ed57b3fa022ca5f8b7438.m3u8"
         },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Reacher-Season-2-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/a87fa561784cff462187c289/a87fa561784cff462187c289438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/a87fa561784cff462187c289/a87fa561784cff462187c289438.m3u8"
         },
         {
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Reacher-Season-2-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/114dcebbbcaf83d3c5c20f2c/114dcebbbcaf83d3c5c20f2c438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/114dcebbbcaf83d3c5c20f2c/114dcebbbcaf83d3c5c20f2c438.m3u8"
         },
         {
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Reacher-Season-2-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/5b85cd90bb8ef9681303f30b/5b85cd90bb8ef9681303f30b438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/5b85cd90bb8ef9681303f30b/5b85cd90bb8ef9681303f30b438.m3u8"
         },
         {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Reacher-Season-2-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/2acee789c51a47ebb3ccdc87/2acee789c51a47ebb3ccdc87438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/2acee789c51a47ebb3ccdc87/2acee789c51a47ebb3ccdc87438.m3u8"
         },
         {
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Reacher-Season-2-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/a7851e118db66e922b01a139/a7851e118db66e922b01a139438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/a7851e118db66e922b01a139/a7851e118db66e922b01a139438.m3u8"
         },
         {
           "name": "ตอนที่ 7",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Reacher-Season-2-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/08469a5b487b0059c2260c37/08469a5b487b0059c2260c37438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/08469a5b487b0059c2260c37/08469a5b487b0059c2260c37438.m3u8"
         },
         {
           "name": "ตอนที่ 8",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Reacher-Season-2-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/52d41ce5af965af091adf1c1/52d41ce5af965af091adf1c1438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/52d41ce5af965af091adf1c1/52d41ce5af965af091adf1c1438.m3u8"
         }
       ]
     },
@@ -833,61 +2460,61 @@
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/cd41f5e7ddd30123e87a04d6/cd41f5e7ddd30123e87a04d6438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/cd41f5e7ddd30123e87a04d6/cd41f5e7ddd30123e87a04d6438.m3u8"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/80fd2a906928852dfccae6e6/80fd2a906928852dfccae6e6438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/80fd2a906928852dfccae6e6/80fd2a906928852dfccae6e6438.m3u8"
         },
         {
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/9fb9a70ce73dec14ec0cc54f/9fb9a70ce73dec14ec0cc54f438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/9fb9a70ce73dec14ec0cc54f/9fb9a70ce73dec14ec0cc54f438.m3u8"
         },
         {
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/4a071d916931e531419ab630/4a071d916931e531419ab630438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/4a071d916931e531419ab630/4a071d916931e531419ab630438.m3u8"
         },
         {
           "name": "ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/e2f194b4ea20c75daf236b6f/e2f194b4ea20c75daf236b6f438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/e2f194b4ea20c75daf236b6f/e2f194b4ea20c75daf236b6f438.m3u8"
         },
         {
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/a6f697f62296e931f11f9f36/a6f697f62296e931f11f9f36438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/a6f697f62296e931f11f9f36/a6f697f62296e931f11f9f36438.m3u8"
         },
         {
           "name": "ตอนที่ 7",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/25c3a725a34afd741beb6dcc/25c3a725a34afd741beb6dcc438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/25c3a725a34afd741beb6dcc/25c3a725a34afd741beb6dcc438.m3u8"
         },
         {
           "name": "ตอนที่ 8",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/98c83a0cd3bafe62f137b040/98c83a0cd3bafe62f137b040438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/98c83a0cd3bafe62f137b040/98c83a0cd3bafe62f137b040438.m3u8"
         },
         {
           "name": "ตอนที่ 9",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/a562ecc972c6e02c6d1b1a84/a562ecc972c6e02c6d1b1a84438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/a562ecc972c6e02c6d1b1a84/a562ecc972c6e02c6d1b1a84438.m3u8"
         },
         {
           "name": "ตอนที่ 10",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/dc4215aad87544214d9e55c3/dc4215aad87544214d9e55c3438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/dc4215aad87544214d9e55c3/dc4215aad87544214d9e55c3438.m3u8"
         }
       ]
     },
@@ -900,446 +2527,79 @@
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Money-Heist-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/7e5ca2da340d442354041c26/7e5ca2da340d442354041c26438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/7e5ca2da340d442354041c26/7e5ca2da340d442354041c26438.m3u8"
         },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Money-Heist-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/8d4e3b81ee7025a9e15c86be/8d4e3b81ee7025a9e15c86be438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/8d4e3b81ee7025a9e15c86be/8d4e3b81ee7025a9e15c86be438.m3u8"
         },
         {
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Money-Heist-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/2d79211f866e8ac05b23af88/2d79211f866e8ac05b23af88438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/2d79211f866e8ac05b23af88/2d79211f866e8ac05b23af88438.m3u8"
         },
         {
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Money-Heist-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/e73977ccb25411a0dd80547f/e73977ccb25411a0dd80547f438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/e73977ccb25411a0dd80547f/e73977ccb25411a0dd80547f438.m3u8"
         },
         {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Money-Heist-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/d32066d82088e7bed4cc1aa1/d32066d82088e7bed4cc1aa1438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/d32066d82088e7bed4cc1aa1/d32066d82088e7bed4cc1aa1438.m3u8"
         },
         {
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Money-Heist-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/9c49021e391debfa5896de49/9c49021e391debfa5896de49438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/9c49021e391debfa5896de49/9c49021e391debfa5896de49438.m3u8"
         },
         {
           "name": "ตอนที่ 7",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Money-Heist-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/f1f4eb6c47b7d57aa6959be9/f1f4eb6c47b7d57aa6959be9438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/f1f4eb6c47b7d57aa6959be9/f1f4eb6c47b7d57aa6959be9438.m3u8"
         },
         {
           "name": "ตอนที่ 8",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Money-Heist-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/2450bacd7a740118cbc91ae8/2450bacd7a740118cbc91ae8438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/2450bacd7a740118cbc91ae8/2450bacd7a740118cbc91ae8438.m3u8"
         },
         {
           "name": "ตอนที่ 9",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Money-Heist-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/1d4bef38ee7b1d5c8a114895/1d4bef38ee7b1d5c8a114895438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/1d4bef38ee7b1d5c8a114895/1d4bef38ee7b1d5c8a114895438.m3u8"
         },
         {
           "name": "ตอนที่ 10",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Money-Heist-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/9ef589b481fc7894cb312d57/9ef589b481fc7894cb312d57438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/9ef589b481fc7894cb312d57/9ef589b481fc7894cb312d57438.m3u8"
         },
         {
           "name": "ตอนที่ 11",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Money-Heist-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/fa35a124711e492a50155288/fa35a124711e492a50155288438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/fa35a124711e492a50155288/fa35a124711e492a50155288438.m3u8"
         },
         {
           "name": "ตอนที่ 12",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Money-Heist-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/4cfc7d846014d7fda16d8370/4cfc7d846014d7fda16d8370438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/4cfc7d846014d7fda16d8370/4cfc7d846014d7fda16d8370438.m3u8"
         },
         {
           "name": "ตอนที่ 13",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Money-Heist-1-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/47a365593cbd3a25aa41abcd/47a365593cbd3a25aa41abcd438.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "The Society (2019) เดอะ โซไซตี้ [จบแล้ว]",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Society-300x450.jpg",
-      "info": "HD(EN)",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Society-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/4f45b19dcad8e0eda86f18cb/4f45b19dcad8e0eda86f18cb438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Society-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/ed18870ea530565da624fe98/ed18870ea530565da624fe98438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Society-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/ec48fc1e64b6e9bbf25f52d5/ec48fc1e64b6e9bbf25f52d5438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Society-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/f327e9445a9a73846d91056d/f327e9445a9a73846d91056d438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Society-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/c5dd08f5f16fe9f67e84051c/c5dd08f5f16fe9f67e84051c438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Society-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/397c9ae7a828809550a81947/397c9ae7a828809550a81947438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Society-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/64f187e2c74aa7977212374e/64f187e2c74aa7977212374e438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Society-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/ba7810a9900870bc15317f5a/ba7810a9900870bc15317f5a438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Society-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/846f2ad6a0ee594658553f11/846f2ad6a0ee594658553f11438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Society-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/13f9dfe0237a0d26954a71a9/13f9dfe0237a0d26954a71a9438.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Echo (2024) เอคโค่ [จบแล้ว]",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Echo-2024-300x450.jpg",
-      "info": "HD(EN)",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Echo-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/4da40b6b350dfe44d432c5dc/4da40b6b350dfe44d432c5dc438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Echo-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/9ff2741898adeec9b4e20d7a/9ff2741898adeec9b4e20d7a438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Echo-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/f89f561c4db6c63b8c7cf4ea/f89f561c4db6c63b8c7cf4ea438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Echo-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/36cbf16a58a7bc62ae3f4007/36cbf16a58a7bc62ae3f4007438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Echo-2024-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/8a178e1414b8f30d293fe0a4/8a178e1414b8f30d293fe0a4438.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "The Brothers Sun (2024) พี่น้องแสบตระกูลซัน [จบแล้ว]",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Brothers-Sun-300x450.jpg",
-      "info": "HD(TH)",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Brothers-Sun-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/b45995f25812442e4abc8608/b45995f25812442e4abc8608438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Brothers-Sun-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/5f6a81282fddc3bac40f9c84/5f6a81282fddc3bac40f9c84438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Brothers-Sun-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/89c63a72e12731543e7826c3/89c63a72e12731543e7826c3438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Brothers-Sun-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/982dfef0791a08275a7914e6/982dfef0791a08275a7914e6438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Brothers-Sun-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/f0dd347a88d5585033adcc3d/f0dd347a88d5585033adcc3d438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Brothers-Sun-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/1edc024282ac4828d53d6d31/1edc024282ac4828d53d6d31438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Brothers-Sun-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/2144954ecd0fd9a8d0a84ff9/2144954ecd0fd9a8d0a84ff9438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Brothers-Sun-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/bbfe02fc0a8be44e48f69c14/bbfe02fc0a8be44e48f69c14438.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Fool Me Once (2024) อย่าหลอกกัน [จบแล้ว]",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fool-Me-Once-300x450.jpg",
-      "info": "HD(EN)",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fool-Me-Once-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/e4c9c018980a1494ae20c23a/e4c9c018980a1494ae20c23a438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fool-Me-Once-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/db0be7a651c2a0593a76e090/db0be7a651c2a0593a76e090438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fool-Me-Once-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/1bb773dc5a7366baf77fc997/1bb773dc5a7366baf77fc997438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fool-Me-Once-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/a09981a1ab08d5312ec8ecea/a09981a1ab08d5312ec8ecea438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fool-Me-Once-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/e5f3f528180f15da4dca87d9/e5f3f528180f15da4dca87d9438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fool-Me-Once-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/cdbf5c8d575bc25486304ce0/cdbf5c8d575bc25486304ce0438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fool-Me-Once-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/a3ba809d9c43c8b93ce9505d/a3ba809d9c43c8b93ce9505d438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fool-Me-Once-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/0ad8834efeee7179f4244a77/0ad8834efeee7179f4244a77438.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Money Heist Berlin (2023) [จบแล้ว]",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Money-Heist-Berlin-300x450.jpg",
-      "info": "HD(TH)",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Money-Heist-Berlin-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/19c825f6e5e96aa56c43db3b/19c825f6e5e96aa56c43db3b438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Money-Heist-Berlin-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/bbbf135c74025a7191f4e153/bbbf135c74025a7191f4e153438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Money-Heist-Berlin-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/3f5914d8db98ef44acc3b878/3f5914d8db98ef44acc3b878438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Money-Heist-Berlin-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/9afa81b78290a718b75d1894/9afa81b78290a718b75d1894438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Money-Heist-Berlin-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/b7db0c544451006d402a2194/b7db0c544451006d402a2194438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Money-Heist-Berlin-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/ffb9784eb367dbcad290adfc/ffb9784eb367dbcad290adfc438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Money-Heist-Berlin-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/47e5926081d78670f28e8adc/47e5926081d78670f28e8adc438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Money-Heist-Berlin-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/c6208ba7bc16ddad013955ef/c6208ba7bc16ddad013955ef438.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "A Murder at the End of the World (2023) [จบแล้ว]",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-300x450.jpg",
-      "info": "HD(EN)",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/e53304bebe3b36df23254ab6/e53304bebe3b36df23254ab6438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/e4d53d08f34aae65e8a55e17/e4d53d08f34aae65e8a55e17438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/7fb1332362abc6ee3a6de04f/7fb1332362abc6ee3a6de04f438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/10d6788cb7958e1e6eba531f/10d6788cb7958e1e6eba531f438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/0508fb86cece3d06b68ccc7c/0508fb86cece3d06b68ccc7c438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/9d627e226946f7f2afce4141/9d627e226946f7f2afce4141438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/08386664353d2b953558ba6e/08386664353d2b953558ba6e438.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Quantum Leap Season 2 (2023) ควอนตัมลีป กระโดดข้ามเวลา 2 [ยังไม่จบ]",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Quantum-Leap-Season-2-300x450.jpg",
-      "info": "HD(EN)",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Quantum-Leap-Season-2-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/86765e7d051f7040e348ef75/86765e7d051f7040e348ef75438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Quantum-Leap-Season-2-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/520de9d93818ae943740ef47/520de9d93818ae943740ef47438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Quantum-Leap-Season-2-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/4748ef35aad85a8745c007e6/4748ef35aad85a8745c007e6438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Quantum-Leap-Season-2-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/ff365d5cc6bddc5f36bca069/ff365d5cc6bddc5f36bca069438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Quantum-Leap-Season-2-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/6ae3038e70b05147419b733f/6ae3038e70b05147419b733f438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Quantum-Leap-Season-2-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/6f6fecbe9f05d4ebd1c9bb9e/6f6fecbe9f05d4ebd1c9bb9e438.m3u8"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Quantum-Leap-Season-2-300x450.jpg",
-          "url": "https://main.freecdnn.com/m3u8/3169ac042120249b04dbb87b/3169ac042120249b04dbb87b438.m3u8"
+          "url": "https://main.24playerhd.com/m3u8/47a365593cbd3a25aa41abcd/47a365593cbd3a25aa41abcd438.m3u8"
         }
       ]
     }
